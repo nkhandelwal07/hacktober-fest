@@ -5,10 +5,7 @@ You can make your own program to add. If you are using a differnet programming l
 
 To contribute: 
 
-Fork the repository, then copy the url. 
-
-Type: 
-
+Fork the repository, then copy the url:
 ```
 git clone "url you just copied"
 ```
